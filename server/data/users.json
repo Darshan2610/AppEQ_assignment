@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "lastLogin": "2024-03-15",
+      "engagementScore": 85,
+      "retentionCategory": "High",
+      "activities": [
+        {
+          "type": "login",
+          "date": "2024-03-15"
+        },
+        {
+          "type": "feature_usage",
+          "feature": "dashboard",
+          "date": "2024-03-15"
+        }
+      ]
+    }
+  ]
+} 
